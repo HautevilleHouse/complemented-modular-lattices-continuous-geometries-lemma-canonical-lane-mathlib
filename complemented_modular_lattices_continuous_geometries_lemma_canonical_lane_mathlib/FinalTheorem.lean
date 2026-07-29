@@ -1,0 +1,9 @@
+import complemented_modular_lattices_continuous_geometries_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace complemented_modular_lattices_continuous_geometries_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end complemented_modular_lattices_continuous_geometries_lemma_canonical_lane_mathlib
+end HautevilleHouse
